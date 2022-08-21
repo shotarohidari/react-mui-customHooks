@@ -1,0 +1,5 @@
+# react+muiのカスタムフックスの実験場
+
+ここを参考にした　https://qiita.com/Yametaro/items/b6e035fe06530a9f47bc#%E3%81%8A%E3%81%BE%E3%81%91render-hooks%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
+
+* useCallbackでstate.isOpenを依存に含めてなかったバグで悩んだ。exhastive-hooks入れた方がいいな。
